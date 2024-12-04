@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tacktile
+ *
+ */
+module MySimplePractice {
+}
